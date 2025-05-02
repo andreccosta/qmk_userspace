@@ -1,4 +1,11 @@
 {
-    "userspace_version": "1.0",
-    "build_targets": []
+    "userspace_version": "1.1",
+    "build_targets": [
+        ["ferris/sweep", "andreccosta"],
+        ["dm9records/plaid", "andreccosta"],
+        ["lily58/rev1", "andreccosta"],
+        ["bastardkb/dilemma/3x5_2/assembled", "andreccosta"],
+        ["bastardkb/dilemma/3x5_3", "andreccosta"],
+        ["kprepublic/bm60hsrgb_iso/rev1", "andreccosta"]
+    ]
 }
